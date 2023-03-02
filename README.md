@@ -9,8 +9,8 @@ Neste repositório, estão meus projetos de machine learning e análises explora
 ## Projetos
 Lista de projetos:
 
-* **Machine Learning para Diagnóstico de Câncer de Pulmão:** https://bityli.com/6aRlz
-* **Machine Learning para Classificação de Estilo Musical:** https://bityli.com/Mdz4o
+* **Machine Learning para Diagnóstico de Câncer de Pulmão:** https://github.com/andregustavo04/Data-Science/blob/main/Previsao_Cancer_Pulmao.ipynb
+* **Machine Learning para Classificação de Estilo Musical:** https://github.com/andregustavo04/Data-Science/blob/main/Classificacao_Estilo_Musical.ipynb
 
 ---
 ## Sobre Mim
