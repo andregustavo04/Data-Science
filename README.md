@@ -4,14 +4,13 @@
 </p
 
 ---
-## Projetos
 Neste repositório, estão meus projetos de machine learning e análises exploratórias.
 
 ## Projetos
 Lista de projetos:
 
 * **Machine Learning para Diagnóstico de Câncer de Pulmão:** https://bityli.com/6aRlz
-* **Machine Learning para Classificação de Estilo Musical: ** https://bityli.com/Mdz4o
+* **Machine Learning para Classificação de Estilo Musical:** https://bityli.com/Mdz4o
 
 ---
 ## Sobre Mim
