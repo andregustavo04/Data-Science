@@ -6,13 +6,13 @@
 ---
 Neste repositório, estão meus projetos de machine learning e análises exploratórias.
 
-## Projetos
+## 🧪 Projetos
 Lista de projetos:
 
 * **Machine Learning para Diagnóstico de Câncer de Pulmão:** https://github.com/andregustavo04/Data-Science/blob/main/Previsao_Cancer_Pulmao.ipynb
 * **Machine Learning para Classificação de Estilo Musical:** https://github.com/andregustavo04/Data-Science/blob/main/Classificacao_Estilo_Musical.ipynb
 
 ---
-## Sobre Mim
+## 🙋🏼‍♂️ Sobre Mim
 Cientista de dados com habilidades  em Python, SQL, e machine learning, além da criação de web apps e dashboards com Python. Tenho um imenso interesse em Matemática, 
 Física, Ciência e Tecnologia de maneira geral. 
